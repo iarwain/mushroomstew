@@ -1,0 +1,3081 @@
+[ScrollEd]
+EncryptSave = false
+LayerIndex = 4
+
+[Map]
+CameraPosition = (-102.086, -690.607, -4.5)
+CameraZoom = 0.999996
+Differential = true
+LayerNumber = 9
+ObjectNumber = 307
+
+[SObj0525]
+Name = RuralStatue7
+Position = (-285, -538, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0526]
+Name = RuralStatue7
+Position = (-212, -537, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0003]
+Name = 2x1GTS
+Position = (-64, -544, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0004]
+Name = 2x1GTS
+Position = (64, -448, 0)
+Scale = (4, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = true
+
+[SObj0005]
+Name = MushNPCPatrolOnSightReorient
+Position = (-32, -576, 0)
+Scale = (-1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0009]
+Name = 2x1GTS
+Position = (-160, -384, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0010]
+Name = RCornerGTS
+Position = (0, -544, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0011]
+Name = LCornerGTS
+Position = (-96, -544, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0013]
+Name = RCornerGTS
+Position = (-224, -544, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0015]
+Name = LCornerGTS
+Position = (32, -448, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0016]
+Name = LCornerGTS
+Position = (-192, -384, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0017]
+Name = RCornerGTS
+Position = (-96, -384, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0021]
+Name = 2x1GTS
+Position = (64, -704, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0022]
+Name = 2x1GTS
+Position = (128, -768, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0023]
+Name = 2x1GTS
+Position = (224, -832, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0024]
+Name = RCornerGTS
+Position = (288, -832, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0025]
+Name = LCornerGTS
+Position = (192, -832, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0026]
+Name = LCornerGTS
+Position = (96, -768, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0027]
+Name = RCornerGTS
+Position = (192, -768, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0028]
+Name = RCornerGTS
+Position = (128, -704, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0029]
+Name = LCornerGTS
+Position = (32, -704, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0020]
+Name = MushNPCPatrolFallOnSightReorient
+Position = (256, -864, 0)
+Scale = (-1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0030]
+Name = NPCVisionWall
+Position = (320, -864, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0037]
+Name = RWallGTS
+Position = (-384, -512, 0)
+Scale = (1, 5, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = true
+
+[SObj0040]
+Name = 1x1GTS
+Position = (-384, -544, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0041]
+Name = 1x1GTS
+Position = (-416, -544, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0042]
+Name = 1x1GTS
+Position = (-448, -544, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0047]
+Name = Ground2GTS
+Position = (-448, -512, 0)
+Scale = (2, 16, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0007]
+Name = RWallGTS
+Position = (-384, -320, 0)
+Scale = (1, 2, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = true
+
+[SObj0032]
+Name = RWallGTS
+Position = (-384, -224, 0)
+Scale = (1, 2, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = true
+
+[SObj0063]
+Name = RWallGTS
+Position = (-384, -128, 0)
+Scale = (1, 4, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = true
+
+[SObj0085]
+Name = RCornerGTS
+Position = (-352, -352, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0019]
+Name = Ground1GTS
+Position = (-384, -352, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0086]
+Name = RCornerGTS
+Position = (-352, -256, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0018]
+Name = Ground1GTS
+Position = (-384, -256, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0076]
+Name = Ground1GTS
+Position = (-384, -160, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0087]
+Name = RCornerGTS
+Position = (-352, -160, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0088]
+Name = 1x1GTS
+Position = (-352, 0, 0)
+Scale = (19, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = true
+
+[SObj0097]
+Name = Ground1GTS
+Position = (-384, 0, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0098]
+Name = Ground1GTS
+Position = (-416, 0, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0099]
+Name = Ground1GTS
+Position = (-448, 0, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0110]
+Name = NPCVisionWall
+Position = (224, -800, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0111]
+Name = NPCVisionWall
+Position = (160, -736, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0112]
+Name = MushNPCPatrolFallOnSightReorient
+Position = (160, -800, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0113]
+Name = LSlopeGTS
+Position = (192, -576, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0114]
+Name = LSlopeGTS
+Position = (256, -608, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0115]
+Name = LSlopeGTS
+Position = (320, -640, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0116]
+Name = LSlopeGTS
+Position = (384, -672, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0117]
+Name = LSlopeGTS
+Position = (448, -704, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0118]
+Name = LCornerGTS
+Position = (160, -544, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0119]
+Name = LUndergroundGTS
+Position = (192, -512, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0120]
+Name = MUndergroundGTS
+Position = (224, -512, 0)
+Scale = (7, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = true
+
+[SObj0128]
+Name = MUndergroundGTS
+Position = (480, -512, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0129]
+Name = Ground2GTS
+Position = (256, -544, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0130]
+Name = Ground2GTS
+Position = (288, -544, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0131]
+Name = Ground2GTS
+Position = (320, -544, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0132]
+Name = Ground2GTS
+Position = (352, -544, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0133]
+Name = Ground2GTS
+Position = (320, -576, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0134]
+Name = Ground2GTS
+Position = (352, -576, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0135]
+Name = Ground2GTS
+Position = (384, -544, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0136]
+Name = Ground2GTS
+Position = (384, -608, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0137]
+Name = Ground2GTS
+Position = (384, -576, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0138]
+Name = Ground2GTS
+Position = (416, -608, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0139]
+Name = Ground2GTS
+Position = (416, -576, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0140]
+Name = Ground2GTS
+Position = (416, -544, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0141]
+Name = Ground2GTS
+Position = (448, -640, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0142]
+Name = Ground2GTS
+Position = (448, -608, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0143]
+Name = Ground2GTS
+Position = (448, -576, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0144]
+Name = Ground2GTS
+Position = (448, -544, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0145]
+Name = Ground2GTS
+Position = (480, -544, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0146]
+Name = Ground2GTS
+Position = (480, -576, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0147]
+Name = Ground2GTS
+Position = (480, -608, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0148]
+Name = Ground2GTS
+Position = (480, -640, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0149]
+Name = NPCVisionWall
+Position = (512, -736, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0160]
+Name = MushNPCPatrolFallOnSightReorient
+Position = (448, -704, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0161]
+Name = 2x1GTS
+Position = (512, -768, 0)
+Scale = (4, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = true
+
+[SObj0162]
+Name = LCornerGTS
+Position = (480, -768, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0163]
+Name = 1x1GTS
+Position = (512, -704, 0)
+Scale = (4, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = true
+
+[SObj0166]
+Name = Ground1GTS
+Position = (512, -672, 0)
+Scale = (3, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = true
+
+[SObj0169]
+Name = Ground2GTS
+Position = (512, -640, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0170]
+Name = Ground2GTS
+Position = (544, -640, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0171]
+Name = RUndergroundGTS
+Position = (608, -608, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0172]
+Name = RWallGTS
+Position = (608, -672, 0)
+Scale = (1, 2, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = true
+
+[SObj0174]
+Name = Ground2GTS
+Position = (576, -640, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0176]
+Name = MUndergroundGTS
+Position = (576, -608, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0177]
+Name = MUndergroundGTS
+Position = (544, -608, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0179]
+Name = RWallGTS
+Position = (512, -576, 0)
+Scale = (1, 2, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = true
+
+[SObj0181]
+Name = RUndergroundGTS
+Position = (512, -512, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0185]
+Name = LWallGTS
+Position = (256, -128, 0)
+Scale = (1, 4, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = true
+
+[SObj0186]
+Name = Ground1GTS
+Position = (256, 0, 0)
+Scale = (11, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = true
+
+[SObj0196]
+Name = Ground2GTS
+Position = (288, -96, 0)
+Scale = (6, 3, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = true
+
+[SObj0202]
+Name = 1x1GTS
+Position = (256, -160, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0203]
+Name = 1x1GTS
+Position = (288, -160, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0204]
+Name = 1x1GTS
+Position = (320, -160, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0205]
+Name = 1x1GTS
+Position = (352, -160, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0031]
+Name = MushUltraElite
+Position = (320, -192, 0)
+Scale = (-1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0012]
+Name = LCornerGTS
+Position = (224, -160, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0231]
+Name = LCornerGTS
+Position = (480, -832, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0232]
+Name = LCornerGTS
+Position = (480, -896, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0234]
+Name = RCornerGTS
+Position = (768, -768, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0235]
+Name = RCornerGTS
+Position = (1056, -832, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0233]
+Name = NPCVisionWall
+Position = (800, -800, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0237]
+Name = NPCVisionWall
+Position = (1088, -864, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0238]
+Name = NPCVisionWall
+Position = (1312, -928, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0239]
+Name = RandomForest1
+Position = (704, -896, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0240]
+Name = RandomForest1
+Position = (1088, -896, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0241]
+Name = MushNPCAlwaysAttackFront
+Position = (1056, -864, 0)
+Scale = (-1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0242]
+Name = MushNPCPatrolFallOnSightReorient
+Position = (960, -864, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0244]
+Name = MushNPCPatrolFallOnSightReorient
+Position = (1184, -928, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0245]
+Name = 2x1GTS
+Position = (-384, -1376, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0246]
+Name = 2x1GTS
+Position = (-320, -1440, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0247]
+Name = 2x1GTS
+Position = (-256, -1440, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0248]
+Name = 2x1GTS
+Position = (-192, -1440, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0249]
+Name = 2x1GTS
+Position = (-128, -1440, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0250]
+Name = 2x1GTS
+Position = (-64, -1440, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0251]
+Name = 2x1GTS
+Position = (0, -1440, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0252]
+Name = 2x1GTS
+Position = (-384, -1504, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0253]
+Name = 2x1GTS
+Position = (-320, -1504, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0254]
+Name = 2x1GTS
+Position = (-256, -1504, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0255]
+Name = 2x1GTS
+Position = (-192, -1504, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0256]
+Name = 2x1GTS
+Position = (-128, -1504, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0257]
+Name = 2x1GTS
+Position = (-64, -1504, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0258]
+Name = 2x1GTS
+Position = (-320, -1568, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0259]
+Name = 2x1GTS
+Position = (-256, -1568, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0260]
+Name = 2x1GTS
+Position = (-192, -1568, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0261]
+Name = 2x1GTS
+Position = (-128, -1568, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0262]
+Name = 2x1GTS
+Position = (-64, -1568, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0263]
+Name = 2x1GTS
+Position = (0, -1568, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0264]
+Name = 2x1GTS
+Position = (-384, -1632, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0265]
+Name = 2x1GTS
+Position = (-320, -1632, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0266]
+Name = 2x1GTS
+Position = (-256, -1632, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0267]
+Name = 2x1GTS
+Position = (-192, -1632, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0268]
+Name = 2x1GTS
+Position = (-128, -1632, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0269]
+Name = 2x1GTS
+Position = (-64, -1632, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0270]
+Name = NPCVisionWall
+Position = (-416, -1664, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0271]
+Name = NPCVisionWall
+Position = (64, -1600, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0272]
+Name = NPCVisionWall
+Position = (-416, -1536, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0273]
+Name = NPCVisionWall
+Position = (64, -1472, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0274]
+Name = NPCVisionWall
+Position = (-416, -1408, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0006]
+Name = 2x1GTS
+Position = (-352, -544, 0)
+Scale = (2, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = true
+
+[SObj0045]
+Name = Ground1GTS
+Position = (-448, -576, 0)
+Scale = (2, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = true
+
+[SObj0279]
+Name = RWallGTS
+Position = (-384, -576, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0280]
+Name = RCornerGTS
+Position = (-352, -608, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0281]
+Name = MushNPCAlwaysAttackFront
+Position = (1024, -864, 0)
+Scale = (-1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0282]
+Name = LUndergroundGTS
+Position = (-448, 32, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0283]
+Name = LUndergroundGTS
+Position = (-416, 64, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0284]
+Name = LUndergroundGTS
+Position = (-384, 96, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0285]
+Name = LUndergroundGTS
+Position = (-352, 128, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0286]
+Name = LUndergroundGTS
+Position = (-320, 160, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0287]
+Name = Ground1GTS
+Position = (-416, 32, 0)
+Scale = (32, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = true
+
+[SObj0312]
+Name = Ground2GTS
+Position = (-384, 64, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0313]
+Name = Ground2GTS
+Position = (-352, 64, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0314]
+Name = Ground2GTS
+Position = (-352, 96, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0315]
+Name = Ground2GTS
+Position = (-320, 128, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0316]
+Name = Ground2GTS
+Position = (-320, 96, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0317]
+Name = Ground2GTS
+Position = (-320, 64, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0318]
+Name = Ground2GTS
+Position = (-288, 64, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0319]
+Name = Ground2GTS
+Position = (-256, 64, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0320]
+Name = Ground2GTS
+Position = (-288, 96, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0321]
+Name = Ground2GTS
+Position = (-256, 96, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0322]
+Name = Ground2GTS
+Position = (-224, 64, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0323]
+Name = Ground2GTS
+Position = (-224, 96, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0324]
+Name = Ground2GTS
+Position = (-288, 128, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0325]
+Name = Ground2GTS
+Position = (-224, 128, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0326]
+Name = Ground2GTS
+Position = (-256, 128, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0327]
+Name = Ground2GTS
+Position = (-192, 128, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0328]
+Name = Ground2GTS
+Position = (-192, 96, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0329]
+Name = Ground2GTS
+Position = (-192, 64, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0330]
+Name = Ground2GTS
+Position = (-160, 64, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0331]
+Name = Ground2GTS
+Position = (-160, 96, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0332]
+Name = Ground2GTS
+Position = (-160, 128, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0333]
+Name = Ground2GTS
+Position = (-128, 128, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0334]
+Name = Ground2GTS
+Position = (-128, 96, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0336]
+Name = Ground2GTS
+Position = (-128, 64, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0335]
+Name = Ground2GTS
+Position = (-96, 64, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0337]
+Name = Ground2GTS
+Position = (-64, 64, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0338]
+Name = Ground2GTS
+Position = (-96, 96, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0339]
+Name = Ground2GTS
+Position = (-96, 128, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0340]
+Name = Ground2GTS
+Position = (-64, 128, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0341]
+Name = Ground2GTS
+Position = (-64, 96, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0342]
+Name = Ground2GTS
+Position = (-32, 64, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0343]
+Name = Ground2GTS
+Position = (-32, 96, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0344]
+Name = Ground2GTS
+Position = (-32, 128, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0345]
+Name = Ground2GTS
+Position = (0, 128, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0346]
+Name = Ground2GTS
+Position = (0, 96, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0347]
+Name = Ground2GTS
+Position = (0, 64, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0348]
+Name = Ground2GTS
+Position = (32, 64, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0349]
+Name = Ground2GTS
+Position = (32, 96, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0350]
+Name = Ground2GTS
+Position = (32, 128, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0351]
+Name = Ground2GTS
+Position = (64, 128, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0352]
+Name = Ground2GTS
+Position = (64, 96, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0353]
+Name = Ground2GTS
+Position = (64, 64, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0354]
+Name = Ground2GTS
+Position = (96, 64, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0355]
+Name = Ground2GTS
+Position = (96, 96, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0356]
+Name = Ground2GTS
+Position = (96, 128, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0357]
+Name = Ground2GTS
+Position = (128, 128, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0358]
+Name = Ground2GTS
+Position = (128, 96, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0359]
+Name = Ground2GTS
+Position = (128, 64, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0360]
+Name = Ground2GTS
+Position = (160, 64, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0361]
+Name = Ground2GTS
+Position = (160, 96, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0362]
+Name = Ground2GTS
+Position = (160, 128, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0363]
+Name = Ground2GTS
+Position = (192, 128, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0364]
+Name = Ground2GTS
+Position = (192, 64, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0365]
+Name = Ground2GTS
+Position = (192, 96, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0366]
+Name = Ground2GTS
+Position = (224, 128, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0367]
+Name = Ground2GTS
+Position = (224, 96, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0368]
+Name = Ground2GTS
+Position = (224, 64, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0369]
+Name = Ground2GTS
+Position = (288, 64, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0370]
+Name = Ground2GTS
+Position = (256, 64, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0371]
+Name = Ground2GTS
+Position = (256, 96, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0372]
+Name = Ground2GTS
+Position = (256, 128, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0373]
+Name = Ground2GTS
+Position = (288, 128, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0374]
+Name = Ground2GTS
+Position = (288, 96, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0375]
+Name = Ground2GTS
+Position = (320, 128, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0376]
+Name = Ground2GTS
+Position = (320, 96, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0377]
+Name = Ground2GTS
+Position = (320, 64, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0378]
+Name = Ground2GTS
+Position = (352, 64, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0379]
+Name = Ground2GTS
+Position = (352, 96, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0380]
+Name = Ground2GTS
+Position = (352, 128, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0381]
+Name = MUndergroundGTS
+Position = (-288, 160, 0)
+Scale = (28, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = true
+
+[SObj0404]
+Name = LWallGTS
+Position = (448, -256, 0)
+Scale = (1, 3, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = true
+
+[SObj0127]
+Name = Ground2GTS
+Position = (448, -512, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0407]
+Name = LUndergroundGTS
+Position = (448, -480, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0408]
+Name = LCornerGTS
+Position = (416, -352, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0421]
+Name = RCornerGTS
+Position = (640, -352, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0422]
+Name = RCornerGTS
+Position = (640, -704, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0423]
+Name = RCornerGTS
+Position = (320, -448, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0417]
+Name = RWallGTS
+Position = (608, -256, 0)
+Scale = (1, 13, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = true
+
+[SObj0435]
+Name = RUndergroundGTS
+Position = (608, 160, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0450]
+Name = Ground1GTS
+Position = (448, -160, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0462]
+Name = Ground2GTS
+Position = (576, 64, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0463]
+Name = Ground2GTS
+Position = (512, 64, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0464]
+Name = Ground2GTS
+Position = (544, 64, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0465]
+Name = Ground2GTS
+Position = (480, 64, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0466]
+Name = Ground2GTS
+Position = (448, 64, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0467]
+Name = Ground2GTS
+Position = (384, 64, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0468]
+Name = Ground2GTS
+Position = (416, 64, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0469]
+Name = Ground2GTS
+Position = (384, 96, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0470]
+Name = Ground2GTS
+Position = (384, 128, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0471]
+Name = Ground2GTS
+Position = (416, 128, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0472]
+Name = Ground2GTS
+Position = (416, 96, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0473]
+Name = Ground2GTS
+Position = (480, 96, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0474]
+Name = Ground2GTS
+Position = (448, 96, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0475]
+Name = Ground2GTS
+Position = (448, 128, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0476]
+Name = Ground2GTS
+Position = (512, 128, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0477]
+Name = Ground2GTS
+Position = (480, 128, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0478]
+Name = Ground2GTS
+Position = (544, 128, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0479]
+Name = Ground2GTS
+Position = (512, 96, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0480]
+Name = Ground2GTS
+Position = (544, 96, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0481]
+Name = Ground2GTS
+Position = (576, 96, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0482]
+Name = Ground2GTS
+Position = (576, 128, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0199]
+Name = Ground1GTS
+Position = (288, -128, 0)
+Scale = (6, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = true
+
+[SObj0206]
+Name = 1x1GTS
+Position = (384, -160, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0505]
+Name = 1x1GTS
+Position = (416, -160, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0527]
+Name = Ground2GTS
+Position = (480, -256, 0)
+Scale = (4, 8, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = true
+
+[SObj0532]
+Name = Bush1
+Position = (640, -352, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0533]
+Name = Bush1
+Position = (576, -352, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0534]
+Name = Bush1
+Position = (480, -352, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0535]
+Name = 2x1STS
+Position = (864, -704, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0536]
+Name = 2x1STS
+Position = (1056, -704, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0537]
+Name = 2x1STS
+Position = (1184, -832, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0538]
+Name = RCornerSTS
+Position = (1248, -832, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0539]
+Name = RCornerSTS
+Position = (1120, -704, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0540]
+Name = RCornerSTS
+Position = (928, -704, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0541]
+Name = LCornerSTS
+Position = (832, -704, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0542]
+Name = LCornerSTS
+Position = (1024, -704, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0543]
+Name = LCornerSTS
+Position = (1152, -832, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0544]
+Name = RCornerGTS
+Position = (1408, -896, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0551]
+Name = MushNPCPatrolOnSightReorient
+Position = (160, -480, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0552]
+Name = MushNPCPatrolOnSightReorient
+Position = (673, -787, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0553]
+Name = MushNPCPatrolOnSightReorient
+Position = (608, -384, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0038]
+Name = LWallGTS
+Position = (-480, -576, 0)
+Scale = (1, 18, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = true
+
+[SObj0560]
+Name = LUndergroundGTS
+Position = (-480, 0, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0561]
+Name = LCornerGTS
+Position = (-512, -608, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0562]
+Name = 1x1GTS
+Position = (-480, -608, 0)
+Scale = (4, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = true
+
+[SObj0563]
+Name = 2x1GTS
+Position = (-256, -448, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0564]
+Name = RCornerGTS
+Position = (-192, -448, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0565]
+Name = LCornerGTS
+Position = (-288, -448, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0178]
+Name = Ground2GTS
+Position = (512, -608, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0405]
+Name = 1x1GTS
+Position = (448, -288, 0)
+Scale = (6, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = true
+
+[SObj0522]
+Name = 2x1GTS
+Position = (640, -288, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0523]
+Name = RCornerGTS
+Position = (704, -288, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0524]
+Name = BGSunRise
+Position = (-7648, -8576, 4)
+Scale = (31, 40, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = true
+Tiling = false
+
+[SObj0566]
+Name = StoneHouse1
+Position = (-256, 0, 1)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0569]
+Name = StoneHouse1
+Position = (128, 0, 1)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0531]
+Name = StoneHouse2
+Position = (-160, 0, 2)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0567]
+Name = StoneHouse3
+Position = (288, 0, 2)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0568]
+Name = StoneHouse3
+Position = (-64, 0, 2)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0570]
+Name = StoneHouse4
+Position = (-544, 0, 2)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0571]
+Name = RuralHouse3
+Position = (-544, 0, 3)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0572]
+Name = RuralHouse3
+Position = (-96, 0, 3)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0575]
+Name = RuralHouse5
+Position = (-1376, -128, 3)
+Scale = (2, 2, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0576]
+Name = StoneHouse1
+Position = (448, 0, 1)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0577]
+Name = StoneHouse1
+Position = (-416, 0, 1)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0578]
+Name = RuralHouse1
+Position = (416, 0, 2)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0579]
+Name = RuralHouse2
+Position = (512, 0, 2)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0002]
+Name = 2x1GTS
+Position = (448, -352, 0)
+Scale = (3, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = true
+
+[SObj0000]
+Name = 2x1GTS
+Position = (512, -832, 0)
+Scale = (8, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = true
+
+[SObj0008]
+Name = 1x1GTS
+Position = (1024, -832, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0014]
+Name = MushNPCPatrolFallOnSightReorient
+Position = (767, -788, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0033]
+Name = 2x1GTS
+Position = (512, -896, 0)
+Scale = (14, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = true
+
+[SObj0001]
+Name = RuralHouse4
+Position = (704, -896, 1)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0034]
+Name = MushNPCEliteFallPatrol
+Position = (36, -1468, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0035]
+Name = MushNPCEliteFallPatrol
+Position = (-362, -1532, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0036]
+Name = MushNPCEliteFallPatrol
+Position = (37, -1608, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0039]
+Name = MushNPCEliteFallPatrol
+Position = (-361, -1666, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0044]
+Name = MushroomSoldierSpecial
+Position = (-414, -626, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+

@@ -1,0 +1,1031 @@
+[ScrollEd]
+EncryptSave = false
+LayerIndex = 4
+
+[Map]
+CameraPosition = (-312.833, -248.361, -4.5)
+CameraZoom = 0.999999
+Differential = true
+LayerNumber = 9
+ObjectNumber = 102
+
+[SObj0008]
+Name = Ground1GTS
+Position = (-480, 32, 0)
+Scale = (13, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = true
+
+[SObj0002]
+Name = BGSunRise
+Position = (-6240, -5888, 4)
+Scale = (28, 31, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = true
+Tiling = false
+
+[SObj0000]
+Name = LCornerGTS
+Position = (-544, 0, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0004]
+Name = 1x1GTS
+Position = (-512, 0, 0)
+Scale = (14, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = true
+
+[SObj0001]
+Name = LWallGTS
+Position = (-512, 32, 0)
+Scale = (1, 4, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = true
+
+[SObj0006]
+Name = Ground2GTS
+Position = (-480, 64, 0)
+Scale = (16, 3, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0019]
+Name = 1x1GTS
+Position = (64, -64, 0)
+Scale = (48, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = true
+
+[SObj0022]
+Name = RCornerGTS
+Position = (1600, -64, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0024]
+Name = Ground1GTS
+Position = (64, -32, 0)
+Scale = (47, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = true
+
+[SObj0026]
+Name = Ground2GTS
+Position = (32, 0, 0)
+Scale = (48, 5, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0027]
+Name = RWallGTS
+Position = (1568, -32, 0)
+Scale = (1, 6, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = true
+
+[SObj0005]
+Name = LSlopeGTS
+Position = (0, -64, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0007]
+Name = LSlopeGTS
+Position = (-64, -32, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0009]
+Name = Ground2GTS
+Position = (0, 0, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0010]
+Name = Ground2GTS
+Position = (-64, 32, 0)
+Scale = (3, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0003]
+Name = Wizard
+Position = (863, -371, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0011]
+Name = WZSlot
+Position = (864, -192, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0012]
+Name = WZSlot
+Position = (1216, -448, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0013]
+Name = WZSlot
+Position = (480, -448, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0015]
+Name = WZSlot
+Position = (832, -672, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0016]
+Name = 2x1GTS
+Position = (384, -320, 0)
+Scale = (3, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = true
+
+[SObj0017]
+Name = 2x1GTS
+Position = (1152, -320, 0)
+Scale = (3, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = true
+
+[SObj0018]
+Name = 2x1GTS
+Position = (608, -512, 0)
+Scale = (8, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = true
+
+[SObj0020]
+Name = RCornerGTS
+Position = (1344, -320, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0021]
+Name = RCornerGTS
+Position = (1120, -512, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0023]
+Name = RCornerGTS
+Position = (576, -320, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0025]
+Name = LCornerGTS
+Position = (352, -320, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0028]
+Name = LCornerGTS
+Position = (576, -512, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0029]
+Name = LCornerGTS
+Position = (1120, -320, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0033]
+Name = 2x1GTS
+Position = (768, -224, 0)
+Scale = (3, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = true
+
+[SObj0034]
+Name = RCornerGTS
+Position = (960, -224, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0035]
+Name = LCornerGTS
+Position = (736, -224, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0030]
+Name = 1x1GTS
+Position = (512, -96, 0)
+Scale = (2, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = true
+
+[SObj0031]
+Name = 1x1GTS
+Position = (1152, -96, 0)
+Scale = (2, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = true
+
+[SObj0032]
+Name = LSlopeGTS
+Position = (448, -96, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0038]
+Name = RSlopeGTS
+Position = (1216, -96, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0039]
+Name = Ground1GTS
+Position = (512, -64, 0)
+Scale = (2, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = true
+
+[SObj0040]
+Name = Ground1GTS
+Position = (1152, -64, 0)
+Scale = (2, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = true
+
+[SObj0042]
+Name = Ground2GTS
+Position = (448, -32, 0)
+Scale = (5, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0044]
+Name = Ground2GTS
+Position = (1120, -32, 0)
+Scale = (5, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0036]
+Name = RWallGTS
+Position = (576, -96, 0)
+Scale = (1, 2, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = true
+
+[SObj0037]
+Name = LWallGTS
+Position = (1120, -96, 0)
+Scale = (1, 2, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = true
+
+[SObj0041]
+Name = RandomForest1
+Position = (-344, 1, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0043]
+Name = RandomForest1
+Position = (-304, 1, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0045]
+Name = RandomForest1
+Position = (-238, 0, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0046]
+Name = RandomForest1
+Position = (259, -64, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0047]
+Name = Tree2
+Position = (796, -62, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0048]
+Name = Tree1
+Position = (775, -58, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0049]
+Name = Tree1
+Position = (1361, -316, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0050]
+Name = Tree3
+Position = (1139, -510, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0051]
+Name = Bush4
+Position = (1130, -511, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0052]
+Name = Bush5
+Position = (605, -513, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0053]
+Name = Tree2
+Position = (623, -509, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0054]
+Name = Tree3
+Position = (371, -317, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0055]
+Name = RandomForest1
+Position = (783, -62, 1)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0056]
+Name = RandomForest1
+Position = (856, -64, 1)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0057]
+Name = RandomForest1
+Position = (931, -62, 1)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0058]
+Name = RandomForest1
+Position = (1286, -62, 1)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0060]
+Name = RuralHouse5
+Position = (-498, 0, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0061]
+Name = MushroomSoldierSpecial
+Position = (-408, -16, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0014]
+Name = RandomForest1
+Position = (616, -63, 1)
+Scale = (0.777778, 0.777778, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0062]
+Name = RandomForest1
+Position = (582, -63, 1)
+Scale = (0.777778, 0.777778, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0063]
+Name = RandomForest1
+Position = (458, -65, 1)
+Scale = (0.777778, 0.777778, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0064]
+Name = RandomForest1
+Position = (-267, 1, 1)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0065]
+Name = RandomForest1
+Position = (-149, 2, 1)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0066]
+Name = RandomForest1
+Position = (259, -64, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0067]
+Name = RandomForest1
+Position = (1436, -64, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0069]
+Name = StoneHouse5
+Position = (1502, -63, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0071]
+Name = RandomForest1
+Position = (-10, 0, 2)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0072]
+Name = RandomForest1
+Position = (884, -64, 2)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0073]
+Name = RandomForest1
+Position = (769, -64, 2)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0074]
+Name = RandomForest1
+Position = (1023, -62, 2)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0075]
+Name = RandomForest1
+Position = (583, -63, 2)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0076]
+Name = RandomForest1
+Position = (640, -63, 2)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0077]
+Name = RandomForest1
+Position = (-172, 2, 2)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0083]
+Name = StoneHouse2
+Position = (1589, -65, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0084]
+Name = StoneHouse1
+Position = (1552, -62, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0085]
+Name = StoneHouse2
+Position = (1462, -63, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0059]
+Name = RandomForest1
+Position = (109, 150, -2)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 0.5075
+Smoothing = false
+Tiling = false
+
+[SObj0068]
+Name = RandomForest1
+Position = (307, 150, -2)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 0.5075
+Smoothing = false
+Tiling = false
+
+[SObj0070]
+Name = RandomForest1
+Position = (-80, 149, -2)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 0.5075
+Smoothing = false
+Tiling = false
+
+[SObj0078]
+Name = RandomForest1
+Position = (565, 147, -2)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 0.5075
+Smoothing = false
+Tiling = false
+
+[SObj0079]
+Name = RandomForest1
+Position = (798, 144, -2)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 0.5075
+Smoothing = false
+Tiling = false
+
+[SObj0080]
+Name = RandomForest1
+Position = (1084, 147, -2)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 0.5075
+Smoothing = false
+Tiling = false
+
+[SObj0081]
+Name = RandomForest1
+Position = (1335, 146, -2)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 0.5075
+Smoothing = false
+Tiling = false
+
+[SObj0082]
+Name = RandomForest1
+Position = (1639, 146, -2)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 0.5075
+Smoothing = false
+Tiling = false
+
+[SObj0086]
+Name = RandomForest1
+Position = (1872, 144, -2)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 0.5075
+Smoothing = false
+Tiling = false
+
+[SObj0087]
+Name = RandomForest1
+Position = (-207, 310, -3)
+Scale = (1.8, 1.8, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 0.5075
+Smoothing = false
+Tiling = false
+
+[SObj0088]
+Name = RandomForest1
+Position = (300, 307, -3)
+Scale = (1.8, 1.8, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 0.5075
+Smoothing = false
+Tiling = false
+
+[SObj0089]
+Name = RandomForest1
+Position = (706, 300, -3)
+Scale = (1.8, 1.8, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 0.5075
+Smoothing = false
+Tiling = false
+
+[SObj0090]
+Name = RandomForest1
+Position = (1116, 304, -3)
+Scale = (1.8, 1.8, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 0.5075
+Smoothing = false
+Tiling = false
+
+[SObj0091]
+Name = RandomForest1
+Position = (1579, 301, -3)
+Scale = (1.8, 1.8, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 0.5075
+Smoothing = false
+Tiling = false
+
+[SObj0092]
+Name = RandomForest1
+Position = (1951, 295, -3)
+Scale = (1.8, 1.8, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 0.5075
+Smoothing = false
+Tiling = false
+
+[SObj0093]
+Name = RandomForest1
+Position = (2374, 297, -3)
+Scale = (1.8, 1.8, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 0.5075
+Smoothing = false
+Tiling = false
+
+[SObj0094]
+Name = RandomForest1
+Position = (2750, 297, -3)
+Scale = (1.8, 1.8, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 0.5075
+Smoothing = false
+Tiling = false
+
+[SObj0095]
+Name = RandomForest1
+Position = (-299, 702, -4)
+Scale = (1.8, 1.8, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 0.5075
+Smoothing = false
+Tiling = false
+
+[SObj0096]
+Name = RandomForest1
+Position = (218, 703, -4)
+Scale = (1.8, 1.8, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 0.5075
+Smoothing = false
+Tiling = false
+
+[SObj0097]
+Name = RandomForest1
+Position = (871, 696, -4)
+Scale = (1.8, 1.8, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 0.5075
+Smoothing = false
+Tiling = false
+
+[SObj0098]
+Name = RandomForest1
+Position = (1441, 705, -4)
+Scale = (1.8, 1.8, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 0.5075
+Smoothing = false
+Tiling = false
+
+[SObj0099]
+Name = RandomForest1
+Position = (2058, 728, -4)
+Scale = (1.8, 1.8, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 0.5075
+Smoothing = false
+Tiling = false
+
+[SObj0100]
+Name = RandomForest1
+Position = (2669, 710, -4)
+Scale = (1.8, 1.8, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 0.5075
+Smoothing = false
+Tiling = false
+
+[SObj0101]
+Name = RandomForest1
+Position = (3118, 721, -4)
+Scale = (1.8, 1.8, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 0.5075
+Smoothing = false
+Tiling = false
+

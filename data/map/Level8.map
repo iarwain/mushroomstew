@@ -1,0 +1,2031 @@
+[ScrollEd]
+EncryptSave = false
+LayerIndex = 4
+
+[Map]
+CameraPosition = (-169.768, -250.374, -4.5)
+CameraZoom = 1
+Differential = true
+LayerNumber = 9
+ObjectNumber = 202
+
+[SObj0008]
+Name = Ground1STS
+Position = (-320, 32, 0)
+Scale = (24, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = true
+
+[SObj0002]
+Name = BGNight
+Position = (-7759, -5979, 4)
+Scale = (30, 30, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = true
+Tiling = false
+
+[SObj0000]
+Name = LCornerSTS
+Position = (-384, 0, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0004]
+Name = 1x1STS
+Position = (-352, 0, 0)
+Scale = (25, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = true
+
+[SObj0001]
+Name = LWallSTS
+Position = (-352, 32, 0)
+Scale = (1, 4, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = true
+
+[SObj0006]
+Name = Ground2STS
+Position = (-320, 64, 0)
+Scale = (24, 3, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0021]
+Name = 2x1STS
+Position = (-320, -672, 0)
+Scale = (2, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = true
+
+[SObj0023]
+Name = 2x1STS
+Position = (544, -640, 0)
+Scale = (2, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = true
+
+[SObj0025]
+Name = 2x1STS
+Position = (-224, -864, 0)
+Scale = (3, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = true
+
+[SObj0026]
+Name = LCornerSTS
+Position = (-352, -672, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0027]
+Name = LCornerSTS
+Position = (-256, -864, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0030]
+Name = LCornerSTS
+Position = (512, -640, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0032]
+Name = RCornerSTS
+Position = (1152, -256, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0033]
+Name = RCornerSTS
+Position = (672, -640, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0036]
+Name = RCornerSTS
+Position = (-32, -864, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0037]
+Name = RCornerSTS
+Position = (-192, -672, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0013]
+Name = 1x1STS
+Position = (-1472, -512, 0)
+Scale = (71, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = true
+
+[SObj0052]
+Name = MUndergroundSTS
+Position = (-1440, -480, 0)
+Scale = (69, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = true
+
+[SObj0022]
+Name = MushNPCOnSightReorient
+Position = (587, -656, 0)
+Scale = (-1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0028]
+Name = MushNPCPatrolOnSightReorient
+Position = (-260, -689, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0035]
+Name = MushNPCOnSightReorient
+Position = (305, -560, 0)
+Scale = (-1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0068]
+Name = MushNPCPatrolOnSightReorient
+Position = (1185, -80, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0070]
+Name = 2x1STS
+Position = (128, -192, 0)
+Scale = (3, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = true
+
+[SObj0072]
+Name = LCornerSTS
+Position = (96, -192, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0073]
+Name = RCornerSTS
+Position = (320, -192, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0075]
+Name = NPCVisionWall
+Position = (672, -736, 0)
+Scale = (1, 3, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0005]
+Name = MushNPCOnSightReorient
+Position = (277, -208, 0)
+Scale = (-1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0009]
+Name = NPCVisionWall
+Position = (320, -288, 0)
+Scale = (1, 3, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0007]
+Name = LSlopeSTS
+Position = (448, -32, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0010]
+Name = LSlopeSTS
+Position = (512, -64, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0011]
+Name = LSlopeSTS
+Position = (576, -96, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0012]
+Name = LWallSTS
+Position = (640, -224, 0)
+Scale = (1, 4, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = true
+
+[SObj0031]
+Name = LUndergroundSTS
+Position = (608, -256, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0039]
+Name = LUndergroundSTS
+Position = (640, -288, 0)
+Scale = (1, 1, 1)
+Rotation = -4.71239
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0041]
+Name = RWallSTS
+Position = (768, -256, 0)
+Scale = (1, 7, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = true
+
+[SObj0042]
+Name = LUndergroundSTS
+Position = (800, -256, 0)
+Scale = (1, 1, 1)
+Rotation = -9.42478
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0038]
+Name = MUndergroundSTS
+Position = (768, -256, 0)
+Scale = (4, 1, 1)
+Rotation = -3.14159
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = true
+
+[SObj0040]
+Name = Ground2STS
+Position = (640, -256, 0)
+Scale = (4, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0043]
+Name = 1x1STS
+Position = (800, -64, 0)
+Scale = (58, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = true
+
+[SObj0044]
+Name = MushNPCHomingPatrolOnSightReorient
+Position = (1030, -80, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0064]
+Name = MushNPCPatrolOnSightReorient
+Position = (876, -80, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0065]
+Name = 2x1STS
+Position = (960, -256, 0)
+Scale = (3, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = true
+
+[SObj0003]
+Name = LCornerSTS
+Position = (928, -256, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0014]
+Name = Ground2STS
+Position = (672, -224, 0)
+Scale = (3, 12, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0015]
+Name = Ground2STS
+Position = (448, 32, 0)
+Scale = (7, 4, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0016]
+Name = Ground2STS
+Position = (512, 0, 0)
+Scale = (2, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0017]
+Name = Ground2STS
+Position = (576, -32, 0)
+Scale = (3, 2, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0018]
+Name = Ground2STS
+Position = (640, -96, 0)
+Scale = (1, 2, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0019]
+Name = RCornerSTS
+Position = (800, -512, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0046]
+Name = RUndergroundSTS
+Position = (768, -480, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0020]
+Name = LCornerSTS
+Position = (-1504, -512, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0024]
+Name = LUndergroundSTS
+Position = (-1472, -480, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0029]
+Name = RSlopeSTS
+Position = (2656, -64, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0034]
+Name = RSlopeSTS
+Position = (2720, -32, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0047]
+Name = LWallSTS
+Position = (1440, -192, 0)
+Scale = (1, 4, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = true
+
+[SObj0048]
+Name = RWallSTS
+Position = (1664, -192, 0)
+Scale = (1, 4, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = true
+
+[SObj0050]
+Name = RCornerSTS
+Position = (1696, -224, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0051]
+Name = LCornerSTS
+Position = (1408, -224, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0049]
+Name = 1x1STS
+Position = (1440, -224, 0)
+Scale = (8, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = true
+
+[SObj0053]
+Name = Ground1STS
+Position = (1472, -192, 0)
+Scale = (6, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = true
+
+[SObj0054]
+Name = Ground2STS
+Position = (1472, -160, 0)
+Scale = (6, 3, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0055]
+Name = MushOrangeDead
+Position = (1514, -161, 0)
+Scale = (1, 1, 1)
+Rotation = 0.734546
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0056]
+Name = MushOrangeDead
+Position = (1536, -105, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0058]
+Name = MushOrangeDead
+Position = (1639, -121, 0)
+Scale = (1, 1, 1)
+Rotation = 0.390059
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0059]
+Name = Ground1STS
+Position = (1472, -128, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0060]
+Name = Ground1STS
+Position = (1568, -96, 0)
+Scale = (1, 1, 1)
+Rotation = -1.5708
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0061]
+Name = Ground1STS
+Position = (1664, -128, 0)
+Scale = (1, 1, 1)
+Rotation = -3.14159
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0062]
+Name = MushOrangeDead
+Position = (1619, -163, 0)
+Scale = (1, 1, 1)
+Rotation = -1.09074
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0057]
+Name = MushOrangeDead
+Position = (2056, -79, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0063]
+Name = MushOrangeDead
+Position = (2116, -79, 0)
+Scale = (-1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0066]
+Name = MushOrangeDead
+Position = (2028, -80, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0067]
+Name = MushOrangeDead
+Position = (2141, -80, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0069]
+Name = MushOrangeDead
+Position = (2206, -80, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0071]
+Name = MushOrangeDead
+Position = (2284, -80, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0074]
+Name = MushOrangeDead
+Position = (2300, -80, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0076]
+Name = MushOrangeDead
+Position = (2270, -80, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0077]
+Name = MushOrangeDead
+Position = (2192, -80, 0)
+Scale = (-1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0078]
+Name = MushOrangeDead
+Position = (2360, -80, 0)
+Scale = (-1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0079]
+Name = MushOrangeDead
+Position = (1977, -80, 0)
+Scale = (-1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0080]
+Name = RuralStatue1
+Position = (2237, -61, 1)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0081]
+Name = RuralStatue1
+Position = (2332, -61, 1)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0082]
+Name = RuralStatue1
+Position = (2115, -61, 1)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0083]
+Name = RuralStatue2
+Position = (2033, -62, 1)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0084]
+Name = RuralStatue2
+Position = (2202, -62, 1)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0085]
+Name = RuralStatue2
+Position = (2269, -62, 2)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0086]
+Name = RuralStatue2
+Position = (2081, -61, 2)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0087]
+Name = Ground2STS
+Position = (768, 0, 0)
+Scale = (59, 5, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0088]
+Name = Ground2STS
+Position = (2656, 0, 0)
+Scale = (2, 5, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0089]
+Name = Ground2STS
+Position = (2720, 32, 0)
+Scale = (2, 4, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0090]
+Name = Ground1STS
+Position = (768, -32, 0)
+Scale = (59, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = true
+
+[SObj0091]
+Name = RUndergroundSTS
+Position = (2784, 32, 0)
+Scale = (1, 1, 1)
+Rotation = -1.5708
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0092]
+Name = RWallSTS
+Position = (2784, 32, 0)
+Scale = (1, 4, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = true
+
+[SObj0093]
+Name = MushNPCHomingOnSightReorient
+Position = (2511, -79, 0)
+Scale = (-1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0094]
+Name = MushNPCPatrolOnSightReorient
+Position = (1556, -240, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0096]
+Name = MushNPCAlwaysAttackFront
+Position = (815, -528, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0095]
+Name = DWallSTS
+Position = (1920, -192, 0)
+Scale = (1, 4, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = true
+
+[SObj0097]
+Name = NPCVisionWall
+Position = (1920, -288, 0)
+Scale = (1, 3, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0098]
+Name = 2x1STS
+Position = (1024, -608, 0)
+Scale = (9, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = true
+
+[SObj0099]
+Name = LCornerSTS
+Position = (992, -608, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0100]
+Name = RCornerSTS
+Position = (1600, -608, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0101]
+Name = 2x1STS
+Position = (1856, -352, 0)
+Scale = (3, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = true
+
+[SObj0103]
+Name = RCornerSTS
+Position = (1760, -512, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0104]
+Name = RCornerSTS
+Position = (2048, -352, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0102]
+Name = LCornerSTS
+Position = (1824, -352, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0105]
+Name = LCornerSTS
+Position = (1728, -512, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0106]
+Name = 1x1STS
+Position = (96, -544, 0)
+Scale = (8, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = true
+
+[SObj0107]
+Name = LUndergroundSTS
+Position = (384, -512, 0)
+Scale = (1, 1, 1)
+Rotation = -9.42478
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0108]
+Name = LUndergroundSTS
+Position = (96, -544, 0)
+Scale = (1, 1, 1)
+Rotation = -4.71239
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0109]
+Name = Ground1STS
+Position = (64, -512, 0)
+Scale = (10, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = true
+
+[SObj0110]
+Name = MushOrangeDead
+Position = (-683, -528, 0)
+Scale = (-1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0111]
+Name = MushOrangeDead
+Position = (-948, -527, 0)
+Scale = (-1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0112]
+Name = MushOrangeDead
+Position = (-989, -528, 0)
+Scale = (-1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0113]
+Name = MushOrangeDead
+Position = (-1336, -528, 0)
+Scale = (-1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0114]
+Name = MushOrangeDead
+Position = (-1302, -527, 0)
+Scale = (-1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0115]
+Name = MushOrangeDead
+Position = (-454, -527, 0)
+Scale = (-1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0116]
+Name = MushOrangeDead
+Position = (-404, -528, 0)
+Scale = (-1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0117]
+Name = MushOrangeDead
+Position = (-385, -527, 0)
+Scale = (-1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0118]
+Name = MushOrangeDead
+Position = (-617, -528, 0)
+Scale = (-1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0119]
+Name = MushOrangeDead
+Position = (-1259, -527, 0)
+Scale = (-1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0120]
+Name = MushOrangeDead
+Position = (-1359, -528, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0121]
+Name = MushOrangeDead
+Position = (-1435, -528, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0122]
+Name = MushOrangeDead
+Position = (-1288, -527, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0123]
+Name = MushOrangeDead
+Position = (-1016, -527, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0124]
+Name = MushOrangeDead
+Position = (-634, -528, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0125]
+Name = MushOrangeDead
+Position = (-440, -528, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0126]
+Name = MushOrangeDead
+Position = (-359, -528, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0127]
+Name = MushOrangeDead
+Position = (-664, -528, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0128]
+Name = MushNPCHideOnSightReorient
+Position = (-540, -527, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0129]
+Name = MushNPCHideOnSightReorient
+Position = (-1319, -528, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0130]
+Name = MushOrangeDead
+Position = (-1326, -527, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0131]
+Name = MushOrangeDead
+Position = (-1386, -528, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0132]
+Name = MushOrangeDead
+Position = (-1316, -527, 0)
+Scale = (-1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0133]
+Name = MushOrangeDead
+Position = (-1232, -527, 0)
+Scale = (-1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0134]
+Name = MushNPCPatrolOnSightReorient
+Position = (-130, -882, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0138]
+Name = StoneHouse5
+Position = (2507, -63, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0139]
+Name = RuralStatue1
+Position = (-1357, -511, 1)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0140]
+Name = RuralStatue1
+Position = (-1232, -511, 1)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0141]
+Name = RuralStatue1
+Position = (-984, -512, 1)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0142]
+Name = RuralStatue1
+Position = (-957, -511, 1)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0143]
+Name = RuralStatue1
+Position = (-626, -512, 1)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0144]
+Name = RuralStatue1
+Position = (-385, -511, 1)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0145]
+Name = RuralStatue2
+Position = (-353, -512, 1)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0146]
+Name = RuralStatue2
+Position = (-1142, -511, 1)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0150]
+Name = RuralStatue7
+Position = (-498, -508, 3)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0151]
+Name = RuralStatue7
+Position = (-716, -509, 1)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0152]
+Name = RuralStatue7
+Position = (-1199, -509, 2)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0153]
+Name = RuralStatue4
+Position = (-848.343, -513.513, 1)
+Scale = (0.714286, 0.714286, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0147]
+Name = RuralStatue7
+Position = (-1050, -508, 2)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0148]
+Name = RuralStatue7
+Position = (-909, -508, 3)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0149]
+Name = RuralHouse7
+Position = (-328, -2, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0154]
+Name = SnowyTree4
+Position = (-97, 1, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0155]
+Name = SnowyTree5
+Position = (-69, -1, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0156]
+Name = SnowyTree6
+Position = (88, 2, 1)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0157]
+Name = SnowyTree7
+Position = (112, 2, 1)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0158]
+Name = SnowyTree8
+Position = (48, 3, 1)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0159]
+Name = StoneHouse4
+Position = (76, 2, 1)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0160]
+Name = RuralStatue1
+Position = (196, 1, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0161]
+Name = SnowyTree2
+Position = (215, 4, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0162]
+Name = SnowyTree3
+Position = (298, 2, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0163]
+Name = RuralStatue4
+Position = (133, -196, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0164]
+Name = RuralHouse6
+Position = (703, -288, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0165]
+Name = SnowyTree4
+Position = (742, -285, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0166]
+Name = SnowyTree5
+Position = (1136, -64, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0167]
+Name = SnowyTree7
+Position = (1292, -62, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0168]
+Name = SnowyTree4
+Position = (988, -63, 1)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0169]
+Name = SnowyTree4
+Position = (1014, -62, 1)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0170]
+Name = SnowyTree4
+Position = (1030, -62, 1)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0171]
+Name = SnowyTree4
+Position = (945, -61, 1)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0172]
+Name = SnowyTree4
+Position = (1209, -61, 1)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0173]
+Name = SnowyTree4
+Position = (1234, -61, 1)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0174]
+Name = SnowyTree4
+Position = (1250, -60, 1)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0175]
+Name = SnowyTree5
+Position = (1270, -62, 1)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0176]
+Name = SnowyTree2
+Position = (1290, -62, 1)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0177]
+Name = SnowyTree2
+Position = (975, -62, 1)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0178]
+Name = SnowyTree2
+Position = (971, -253, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0179]
+Name = SnowyTree3
+Position = (1149, -255, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0180]
+Name = SnowyTree7
+Position = (1584, -223, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0181]
+Name = SnowyTree7
+Position = (2543, -62, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0182]
+Name = SnowyTree4
+Position = (2570, -62, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0183]
+Name = StoneHouse3
+Position = (1796, -62, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0184]
+Name = SnowyTree2
+Position = (1768, -58, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0185]
+Name = SnowyTree2
+Position = (1762, -512, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0186]
+Name = SnowyTree4
+Position = (2034, -350, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0187]
+Name = SnowyTree4
+Position = (1148, -606, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0188]
+Name = SnowyTree5
+Position = (1179, -607, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0189]
+Name = StoneHouse4
+Position = (1490, -607, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0190]
+Name = StoneHouse3
+Position = (1517, -606, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0191]
+Name = SnowyTree2
+Position = (1550, -605, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0192]
+Name = SnowyTree2
+Position = (629, -512, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0193]
+Name = SnowyTree3
+Position = (176, -543, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0194]
+Name = SnowyTree4
+Position = (-101, -862, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0195]
+Name = SnowyTree4
+Position = (-1175, -510, 1)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0196]
+Name = SnowyTree6
+Position = (-1081, -510, 2)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0197]
+Name = SnowyTree7
+Position = (-738, -510, 1)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0198]
+Name = SnowyTree7
+Position = (-412, -510, 1)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0199]
+Name = SnowyTree8
+Position = (-436, -507, 1)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0200]
+Name = SnowyTree3
+Position = (-869, -511, 1)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0201]
+Name = SnowyTree3
+Position = (-331, -670, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0202]
+Name = MushroomSoldierSpecial
+Position = (-267, -16, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0203]
+Name = SnowyTree6
+Position = (336, -192, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0204]
+Name = SnowyTree5
+Position = (1934, -193, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+
+[SObj0205]
+Name = SnowyTree8
+Position = (689, -638, 0)
+Scale = (1, 1, 1)
+Rotation = 0
+Color = (1, 1, 1)
+Alpha = 1
+Smoothing = false
+Tiling = false
+

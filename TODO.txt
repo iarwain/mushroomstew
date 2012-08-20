@@ -1,0 +1,26 @@
+-= Highest priority -> top =-
+
+= Must Have for Assemblee =
+
+V AI NPCs
+V Death + restart
+V Time weapon
+V Gravity weapon
+V Health bars
+V Title screen
+V Music & sound integration
+V Checkpoints/SaveGame
+V Objectives display (target icons)
+V Camera with freedom
+V Score
+V Levels
+
+= Post Assemblee: Coop Multiplayer & stuff =
+
+- Spawn points for multiplayer
+- Collectables
+- New characters
+- Overlays
+- Menu screens
+- Online leaderboard
+- Splitscreen for multiplayer

@@ -1,0 +1,15 @@
+syntax: glob
+build/msvs2008/Release/vc90.pdb
+build/msvs2008/Release/vc90.idb
+build/msvs2008/Release/MushroomStew.obj
+build/msvs2008/Release/BuildLog.htm
+build/msvs2008/MushroomStew.ncb
+build/msvs2008/Debug/vc90.pdb
+build/msvs2008/Debug/vc90.idb
+build/msvs2008/Debug/MushroomStew.obj
+build/msvs2008/Debug/BuildLog.htm
+bin/windows/MushroomStewd.pdb
+bin/windows/MushroomStewd.ilk
+bin/windows/MushroomStew.pdb
+bin/windows/MushroomStewd-debug.log
+bin/windows/MushroomStew.sav

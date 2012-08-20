@@ -1,0 +1,40 @@
+===== Mushroom Stew credits =====
+
+-= Gfx =-
+
+- MashPotato: Mushrooms + tilesets + projectiles
+- dbb: Buildings + trees/bushes + wizard
+- György Straub: Trees + clouds + snow flakes
+- Kazerad: DragonPrincess & blood splatters
+- FrankieSmileShow: Explosions
+- can-o-spam: Explosions + shuriken
+- Fifth: Fire/lightning balls
+- mr.mnml: Backgrounds
+- NotWorthy: Background
+- Melly: World background + tombstone
+- pgil: Font
+
+-= Zic / Sfx =-
+
+- easyname: Themes
+- Synnah: Theme
+- Sos: Boss theme
+- Atuun: Gun & start sfx
+- John Nesky: All the other sfx =)
+
+-= Code / Design =-
+
+- Iarwain
+
+-= Story / infant distraction =-
+
+- Peppernut
+
+-= Additional challenge maps =-
+
+- Blarg
+- Luco
+
+-= Misc =-
+
+Mushroom Stew was made with the orx/scroll portable game engine.

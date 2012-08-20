@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CodeLite_Project Name="MushroomStew">
+  <Plugins>
+    <Plugin Name="qmake">
+      <![CDATA[00040001N0011Linux Debug0000000000000001N0013Linux Release0000000000000001N0011Win32 Debug0000000000000001N0013Win32 Release000000000000]]>
+    </Plugin>
+  </Plugins>
+  <Description/>
+  <VirtualDirectory Name="src">
+    <File Name="../../../src/Character.inl"/>
+    <File Name="../../../src/EndBoss.inl"/>
+    <File Name="../../../src/Enemy.inl"/>
+    <File Name="../../../src/Missile.inl"/>
+    <File Name="../../../src/MushroomStew.cpp"/>
+    <File Name="../../../src/Player.inl"/>
+    <File Name="../../../src/SpecialWeapon.inl"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="include">
+    <File Name="../../../include/Character.h"/>
+    <File Name="../../../include/EndBoss.h"/>
+    <File Name="../../../include/Enemy.h"/>
+    <File Name="../../../include/Missile.h"/>
+    <File Name="../../../include/MushroomStew.h"/>
+    <File Name="../../../include/Player.h"/>
+    <File Name="../../../include/SpecialWeapon.h"/>
+    <VirtualDirectory Name="Scroll">
+      <File Name="../../../include/Scroll/Scroll.h"/>
+      <File Name="../../../include/Scroll/Scroll.inl"/>
+      <File Name="../../../include/Scroll/ScrollBase.h"/>
+      <File Name="../../../include/Scroll/ScrollBase.inl"/>
+      <File Name="../../../include/Scroll/ScrollEd.h"/>
+      <File Name="../../../include/Scroll/ScrollEd.inl"/>
+      <File Name="../../../include/Scroll/ScrollObject.h"/>
+      <File Name="../../../include/Scroll/ScrollObject.inl"/>
+    </VirtualDirectory>
+  </VirtualDirectory>
+  <Dependencies Name="Win32 Debug"/>
+  <Dependencies Name="Win32 Release"/>
+  <Settings Type="Executable">
+    <Configuration Name="Linux Debug" CompilerType="gnu g++" DebuggerType="GNU gdb debugger" Type="Executable" BuildCmpWithGlobalSettings="append" BuildLnkWithGlobalSettings="append" BuildResWithGlobalSettings="append">
+      <Compiler Options="-g -Wno-write-strings" Required="yes" PreCompiledHeader="">
+        <IncludePath Value="../../../include"/>
+        <IncludePath Value="../../../include/Scroll"/>
+        <IncludePath Value="../../../include/Scroll/orx"/>
+        <Preprocessor Value="__orxDEBUG__"/>
+      </Compiler>
+      <Linker Options="-Wl,-rpath ./" Required="yes">
+        <LibraryPath Value="../../../lib/linux"/>
+        <Library Value="orxd"/>
+      </Linker>
+      <ResourceCompiler Options="" Required="no"/>
+      <General OutputFile="../../../bin/linux/MushroomStewd" IntermediateDirectory="$(ConfigurationName)" Command="MushroomStewd" CommandArguments="-editor" WorkingDirectory="../../../bin" PauseExecWhenProcTerminates="yes"/>
+      <Debugger IsRemote="no" RemoteHostName="" RemoteHostPort="" DebuggerPath="">
+        <PostConnectCommands></PostConnectCommands>
+        <StartupCommands></StartupCommands>
+      </Debugger>
+      <PreBuild/>
+      <PostBuild/>
+      <CustomBuild Enabled="no">
+        <CleanCommand></CleanCommand>
+        <BuildCommand></BuildCommand>
+        <PreprocessFileCommand></PreprocessFileCommand>
+        <SingleFileCommand></SingleFileCommand>
+        <MakefileGenerationCommand></MakefileGenerationCommand>
+        <ThirdPartyToolName>None</ThirdPartyToolName>
+        <WorkingDirectory></WorkingDirectory>
+      </CustomBuild>
+      <AdditionalRules>
+        <CustomPostBuild></CustomPostBuild>
+        <CustomPreBuild>
+
+</CustomPreBuild>
+      </AdditionalRules>
+    </Configuration>
+    <Configuration Name="Linux Release" CompilerType="gnu g++" DebuggerType="GNU gdb debugger" Type="Executable" BuildCmpWithGlobalSettings="append" BuildLnkWithGlobalSettings="append" BuildResWithGlobalSettings="append">
+      <Compiler Options="-O1 -Wno-write-strings" Required="yes" PreCompiledHeader="">
+        <IncludePath Value="../../../include"/>
+        <IncludePath Value="../../../include/Scroll"/>
+        <IncludePath Value="../../../include/Scroll/orx"/>
+      </Compiler>
+      <Linker Options="-s -Wl,-rpath ./" Required="yes">
+        <LibraryPath Value="../../../lib/linux"/>
+        <Library Value="orx"/>
+      </Linker>
+      <ResourceCompiler Options="" Required="no"/>
+      <General OutputFile="../../../bin/linux/MushroomStew" IntermediateDirectory="$(ConfigurationName)" Command="MushroomStew" CommandArguments="-editor" WorkingDirectory="../../../bin" PauseExecWhenProcTerminates="yes"/>
+      <Debugger IsRemote="no" RemoteHostName="" RemoteHostPort="" DebuggerPath="">
+        <PostConnectCommands></PostConnectCommands>
+        <StartupCommands></StartupCommands>
+      </Debugger>
+      <PreBuild/>
+      <PostBuild/>
+      <CustomBuild Enabled="no">
+        <CleanCommand></CleanCommand>
+        <BuildCommand></BuildCommand>
+        <PreprocessFileCommand></PreprocessFileCommand>
+        <SingleFileCommand></SingleFileCommand>
+        <MakefileGenerationCommand></MakefileGenerationCommand>
+        <ThirdPartyToolName>None</ThirdPartyToolName>
+        <WorkingDirectory></WorkingDirectory>
+      </CustomBuild>
+      <AdditionalRules>
+        <CustomPostBuild></CustomPostBuild>
+        <CustomPreBuild>
+
+</CustomPreBuild>
+      </AdditionalRules>
+    </Configuration>
+    <Configuration Name="Win32 Debug" CompilerType="gnu g++" DebuggerType="GNU gdb debugger" Type="Executable" BuildCmpWithGlobalSettings="append" BuildLnkWithGlobalSettings="append" BuildResWithGlobalSettings="append">
+      <Compiler Options="-g" Required="yes" PreCompiledHeader="">
+        <IncludePath Value="../../../include"/>
+        <IncludePath Value="../../../include/Scroll"/>
+        <IncludePath Value="../../../include/Scroll/orx"/>
+        <Preprocessor Value="__orxDEBUG__"/>
+      </Compiler>
+      <Linker Options="" Required="yes">
+        <LibraryPath Value="../../../lib/windows"/>
+        <Library Value="orxd"/>
+      </Linker>
+      <ResourceCompiler Options="" Required="no"/>
+      <General OutputFile="../../../bin/windows/MushroomStewd.exe" IntermediateDirectory="$(ConfigurationName)" Command="MushroomStewd.exe" CommandArguments="-editor" WorkingDirectory="../../../bin" PauseExecWhenProcTerminates="yes"/>
+      <Debugger IsRemote="no" RemoteHostName="" RemoteHostPort="" DebuggerPath="">
+        <PostConnectCommands></PostConnectCommands>
+        <StartupCommands></StartupCommands>
+      </Debugger>
+      <PreBuild/>
+      <PostBuild/>
+      <CustomBuild Enabled="no">
+        <CleanCommand></CleanCommand>
+        <BuildCommand></BuildCommand>
+        <PreprocessFileCommand></PreprocessFileCommand>
+        <SingleFileCommand></SingleFileCommand>
+        <MakefileGenerationCommand></MakefileGenerationCommand>
+        <ThirdPartyToolName>None</ThirdPartyToolName>
+        <WorkingDirectory></WorkingDirectory>
+      </CustomBuild>
+      <AdditionalRules>
+        <CustomPostBuild></CustomPostBuild>
+        <CustomPreBuild>
+
+</CustomPreBuild>
+      </AdditionalRules>
+    </Configuration>
+    <Configuration Name="Win32 Release" CompilerType="gnu g++" DebuggerType="GNU gdb debugger" Type="Executable" BuildCmpWithGlobalSettings="append" BuildLnkWithGlobalSettings="append" BuildResWithGlobalSettings="append">
+      <Compiler Options="-O1" Required="yes" PreCompiledHeader="">
+        <IncludePath Value="../../../include"/>
+        <IncludePath Value="../../../include/Scroll"/>
+        <IncludePath Value="../../../include/Scroll/orx"/>
+      </Compiler>
+      <Linker Options="-s" Required="yes">
+        <LibraryPath Value="../../../lib/windows"/>
+        <Library Value="orx"/>
+      </Linker>
+      <ResourceCompiler Options="" Required="no"/>
+      <General OutputFile="../../../bin/windows/MushroomStew.exe" IntermediateDirectory="$(ConfigurationName)" Command="MushroomStew.exe" CommandArguments="-editor" WorkingDirectory="../../../bin" PauseExecWhenProcTerminates="yes"/>
+      <Debugger IsRemote="no" RemoteHostName="" RemoteHostPort="" DebuggerPath="">
+        <PostConnectCommands></PostConnectCommands>
+        <StartupCommands></StartupCommands>
+      </Debugger>
+      <PreBuild/>
+      <PostBuild/>
+      <CustomBuild Enabled="no">
+        <CleanCommand></CleanCommand>
+        <BuildCommand></BuildCommand>
+        <PreprocessFileCommand></PreprocessFileCommand>
+        <SingleFileCommand></SingleFileCommand>
+        <MakefileGenerationCommand></MakefileGenerationCommand>
+        <ThirdPartyToolName>None</ThirdPartyToolName>
+        <WorkingDirectory></WorkingDirectory>
+      </CustomBuild>
+      <AdditionalRules>
+        <CustomPostBuild></CustomPostBuild>
+        <CustomPreBuild>
+
+</CustomPreBuild>
+      </AdditionalRules>
+    </Configuration>
+    <GlobalSettings>
+      <Compiler Options="-Wmissing-braces -Wparentheses -Wsign-compare -Wswitch -Wunused-variable">
+        <IncludePath Value="."/>
+      </Compiler>
+      <Linker Options="">
+        <LibraryPath Value="."/>
+      </Linker>
+      <ResourceCompiler Options=""/>
+    </GlobalSettings>
+  </Settings>
+</CodeLite_Project>
