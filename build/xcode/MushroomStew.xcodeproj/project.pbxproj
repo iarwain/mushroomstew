@@ -6,35 +6,9 @@
 	objectVersion = 45;
 	objects = {
 
-/* Begin PBXAggregateTarget section */
-		E059AC040F22FEE800900DF0 /* All */ = {
-			isa = PBXAggregateTarget;
-			buildConfigurationList = E059AC070F22FF0600900DF0 /* Build configuration list for PBXAggregateTarget "All" */;
-			buildPhases = (
-			);
-			dependencies = (
-				E059AC0B0F22FF1D00900DF0 /* PBXTargetDependency */,
-			);
-			name = All;
-			productName = All;
-		};
-/* End PBXAggregateTarget section */
-
 /* Begin PBXBuildFile section */
-		E036DEF910E83E9F00EB1C0D /* liborx.dylib in CopyFiles */ = {isa = PBXBuildFile; fileRef = E0EE30A310D5A8770065DABE /* liborx.dylib */; };
 		E09C2AFE10F5725B00D72A23 /* MushroomStew.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E09C2AFD10F5720500D72A23 /* MushroomStew.cpp */; };
-		E0EE30A510D5A87E0065DABE /* liborx.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = E0EE30A310D5A8770065DABE /* liborx.dylib */; };
 /* End PBXBuildFile section */
-
-/* Begin PBXContainerItemProxy section */
-		E059AC0A0F22FF1D00900DF0 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 0867D690FE84028FC02AAC07 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = E059AAE20F22ECCA00900DF0;
-			remoteInfo = orx;
-		};
-/* End PBXContainerItemProxy section */
 
 /* Begin PBXCopyFilesBuildPhase section */
 		E036DF0810E83EAC00EB1C0D /* CopyFiles */ = {
@@ -43,7 +17,6 @@
 			dstPath = ../../bin/mac;
 			dstSubfolderSpec = 16;
 			files = (
-				E036DEF910E83E9F00EB1C0D /* liborx.dylib in CopyFiles */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -55,7 +28,6 @@
 		E08A605F10E6AAD3000495A5 /* SpecialWeapon.inl */ = {isa = PBXFileReference; fileEncoding = 12; lastKnownFileType = text; path = SpecialWeapon.inl; sourceTree = "<group>"; };
 		E09C2AFC10F571F900D72A23 /* MushroomStew.h */ = {isa = PBXFileReference; fileEncoding = 12; lastKnownFileType = sourcecode.c.h; path = MushroomStew.h; sourceTree = "<group>"; };
 		E09C2AFD10F5720500D72A23 /* MushroomStew.cpp */ = {isa = PBXFileReference; fileEncoding = 12; lastKnownFileType = sourcecode.cpp.cpp; path = MushroomStew.cpp; sourceTree = "<group>"; };
-		E0EE30A310D5A8770065DABE /* liborx.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = liborx.dylib; path = ../../lib/mac/liborx.dylib; sourceTree = SOURCE_ROOT; };
 		E0EE30A810D5A8960065DABE /* Character.inl */ = {isa = PBXFileReference; fileEncoding = 12; lastKnownFileType = text; path = Character.inl; sourceTree = "<group>"; };
 		E0EE30A910D5A8960065DABE /* Enemy.inl */ = {isa = PBXFileReference; fileEncoding = 12; lastKnownFileType = text; path = Enemy.inl; sourceTree = "<group>"; };
 		E0EE30AA10D5A8960065DABE /* Missile.inl */ = {isa = PBXFileReference; fileEncoding = 12; lastKnownFileType = text; path = Missile.inl; sourceTree = "<group>"; };
@@ -148,7 +120,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E0EE30A510D5A87E0065DABE /* liborx.dylib in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -176,7 +147,6 @@
 		0867D69AFE84028FC02AAC07 /* External Frameworks and Libraries */ = {
 			isa = PBXGroup;
 			children = (
-				E0EE30A310D5A8770065DABE /* liborx.dylib */,
 			);
 			name = "External Frameworks and Libraries";
 			sourceTree = "<group>";
@@ -466,13 +436,19 @@
 			isa = PBXProject;
 			buildConfigurationList = 1DEB916408733D950010E9CD /* Build configuration list for PBXProject "MushroomStew" */;
 			compatibilityVersion = "Xcode 2.4";
+			developmentRegion = English;
 			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+			);
 			mainGroup = 0867D691FE84028FC02AAC07 /* orx */;
 			productRefGroup = 034768DDFF38A45A11DB9C8B /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				E059AC040F22FEE800900DF0 /* All */,
 				E059AAE20F22ECCA00900DF0 /* MushroomStew */,
 			);
 		};
@@ -489,20 +465,12 @@
 		};
 /* End PBXSourcesBuildPhase section */
 
-/* Begin PBXTargetDependency section */
-		E059AC0B0F22FF1D00900DF0 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = E059AAE20F22ECCA00900DF0 /* MushroomStew */;
-			targetProxy = E059AC0A0F22FF1D00900DF0 /* PBXContainerItemProxy */;
-		};
-/* End PBXTargetDependency section */
-
 /* Begin XCBuildConfiguration section */
 		1DEB916608733D950010E9CD /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = YES;
-				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
 				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)";
 				DEAD_CODE_STRIPPING = YES;
 				GCC_AUTO_VECTORIZATION = YES;
@@ -516,7 +484,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = "";
 				GCC_REUSE_STRINGS = NO;
 				GCC_USE_STANDARD_INCLUDE_SEARCHING = YES;
-				GCC_VERSION = 4.0;
+				GCC_VERSION = 4.2;
 				GCC_WARN_ABOUT_DEPRECATED_FUNCTIONS = NO;
 				GCC_WARN_ABOUT_MISSING_NEWLINE = YES;
 				GCC_WARN_ABOUT_MISSING_PROTOTYPES = NO;
@@ -537,11 +505,12 @@
 				PREBINDING = NO;
 				PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR = NO;
 				SCAN_ALL_SOURCE_FILES_FOR_INCLUDES = YES;
-				SDKROOT = macosx10.4;
+				SDKROOT = macosx10.6;
 				SKIP_INSTALL = YES;
+				STRINGS_FILE_OUTPUT_ENCODING = "UTF-8";
 				SYMROOT = ../../../;
 				USER_HEADER_SEARCH_PATHS = "";
-				VALID_ARCHS = "i386 ppc";
+				VALID_ARCHS = "i386 ppc x86_64";
 			};
 			name = Release;
 		};
@@ -554,6 +523,9 @@
 				GCC_AUTO_VECTORIZATION = YES;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_ENABLE_FIX_AND_CONTINUE = NO;
+				GCC_ENABLE_SSE3_EXTENSIONS = YES;
+				GCC_ENABLE_SSE41_EXTENSIONS = YES;
+				GCC_ENABLE_SSE42_EXTENSIONS = YES;
 				GCC_MODEL_TUNING = G5;
 				GCC_OPTIMIZATION_LEVEL = s;
 				GCC_PRECOMPILE_PREFIX_HEADER = NO;
@@ -563,11 +535,7 @@
 				GCC_WARN_ABOUT_RETURN_TYPE = NO;
 				INSTALL_PATH = "@executable_path";
 				LD_DYLIB_INSTALL_NAME = "";
-				LIBRARY_SEARCH_PATHS = (
-					../../lib,
-					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_1)",
-				);
-				LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_1 = "\"$(SRCROOT)/../../lib/mac\"";
+				LIBRARY_SEARCH_PATHS = ../../lib;
 				MACH_O_TYPE = mh_execute;
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -575,6 +543,7 @@
 					Foundation,
 					"-framework",
 					AppKit,
+					"-lorx",
 				);
 				PREBINDING = NO;
 				PRODUCT_NAME = MushroomStew;
@@ -582,21 +551,101 @@
 				STRIP_STYLE = all;
 				SYMROOT = ../../bin/mac;
 				USER_HEADER_SEARCH_PATHS = "../../include/Scroll/orx ../../include/Scroll ../../include";
-				VALID_ARCHS = "i386 ppc";
+				VALID_ARCHS = "i386 ppc x86_64";
 				ZERO_LINK = NO;
 			};
 			name = Release;
 		};
-		E059AC060F22FEE800900DF0 /* Release */ = {
+		E09179A515E4D1DB001B5781 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				COPY_PHASE_STRIP = YES;
+				ALWAYS_SEARCH_USER_PATHS = YES;
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)";
+				DEAD_CODE_STRIPPING = YES;
+				GCC_AUTO_VECTORIZATION = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_ENABLE_CPP_EXCEPTIONS = NO;
+				GCC_ENABLE_CPP_RTTI = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = NO;
+				GCC_ENABLE_PASCAL_STRINGS = YES;
+				GCC_ENABLE_SSE3_EXTENSIONS = NO;
+				GCC_FAST_OBJC_DISPATCH = YES;
+				GCC_PREPROCESSOR_DEFINITIONS = "";
+				GCC_REUSE_STRINGS = NO;
+				GCC_USE_STANDARD_INCLUDE_SEARCHING = YES;
+				GCC_VERSION = 4.2;
+				GCC_WARN_ABOUT_DEPRECATED_FUNCTIONS = NO;
+				GCC_WARN_ABOUT_MISSING_NEWLINE = YES;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = NO;
+				GCC_WARN_ABOUT_RETURN_TYPE = NO;
+				GCC_WARN_CHECK_SWITCH_STATEMENTS = YES;
+				GCC_WARN_MISSING_PARENTHESES = YES;
+				GCC_WARN_SIGN_COMPARE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = "";
+				INFOPLIST_EXPAND_BUILD_SETTINGS = NO;
+				INSTALL_PATH = "@executable_path";
+				LD_DYLIB_INSTALL_NAME = "$(DYLIB_INSTALL_NAME_BASE:standardizepath)/$(EXECUTABLE_PATH)";
+				LIBRARY_SEARCH_PATHS = "";
+				MACH_O_TYPE = mh_dylib;
+				OBJROOT = "build-embedded";
+				ONLY_ACTIVE_ARCH = YES;
+				OTHER_CFLAGS = "";
+				PREBINDING = NO;
+				PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR = NO;
+				SCAN_ALL_SOURCE_FILES_FOR_INCLUDES = YES;
+				SDKROOT = macosx10.6;
+				SKIP_INSTALL = YES;
+				STRINGS_FILE_OUTPUT_ENCODING = "UTF-8";
+				SYMROOT = ../../../;
+				USER_HEADER_SEARCH_PATHS = "";
+				VALID_ARCHS = "i386 ppc x86_64";
+			};
+			name = Debug;
+		};
+		E09179A615E4D1DB001B5781 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = YES;
+				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				GCC_ENABLE_FIX_AND_CONTINUE = NO;
-				PRODUCT_NAME = All;
+				GCC_AUTO_VECTORIZATION = YES;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_CPP_RTTI = YES;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_ENABLE_SSE3_EXTENSIONS = YES;
+				GCC_ENABLE_SSE41_EXTENSIONS = YES;
+				GCC_ENABLE_SSE42_EXTENSIONS = YES;
+				GCC_MODEL_TUNING = G5;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = NO;
+				GCC_PREFIX_HEADER = "";
+				GCC_PREPROCESSOR_DEFINITIONS = __orxDEBUG__;
+				GCC_WARN_ABOUT_INVALID_OFFSETOF_MACRO = NO;
+				GCC_WARN_ABOUT_RETURN_TYPE = NO;
+				INSTALL_PATH = "@executable_path";
+				LD_DYLIB_INSTALL_NAME = "";
+				LIBRARY_SEARCH_PATHS = ../../lib;
+				MACH_O_TYPE = mh_execute;
+				ONLY_ACTIVE_ARCH = NO;
+				OTHER_LDFLAGS = (
+					"-framework",
+					Foundation,
+					"-framework",
+					AppKit,
+					"-lorxd",
+				);
+				PREBINDING = NO;
+				PRODUCT_NAME = MushroomStewd;
+				STRIP_INSTALLED_PRODUCT = NO;
+				STRIP_STYLE = all;
+				SYMROOT = ../../bin/mac;
+				USER_HEADER_SEARCH_PATHS = "../../include/Scroll/orx ../../include/Scroll ../../include";
+				VALID_ARCHS = "i386 ppc x86_64";
 				ZERO_LINK = NO;
 			};
-			name = Release;
+			name = Debug;
 		};
 /* End XCBuildConfiguration section */
 
@@ -605,6 +654,7 @@
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1DEB916608733D950010E9CD /* Release */,
+				E09179A515E4D1DB001B5781 /* Debug */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -613,14 +663,7 @@
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E059AAE60F22ECCB00900DF0 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		E059AC070F22FF0600900DF0 /* Build configuration list for PBXAggregateTarget "All" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				E059AC060F22FEE800900DF0 /* Release */,
+				E09179A615E4D1DB001B5781 /* Debug */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
